@@ -1,3 +1,4 @@
+
 # Microservices Communication Study: RestTemplate vs Feign vs WebClient
 
 This project demonstrates a comparative study of different synchronous HTTP communication methods in a Spring Boot microservices architecture. It integrates **Eureka Discovery Service** for service registration and discovery.
